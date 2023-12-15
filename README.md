@@ -58,6 +58,16 @@ Make sure to update the routes, validation, and error-handling logic to align wi
 
 ## UML
 
+#### Class diagram
+<p align="center">
+  <img width="400" src="./Diagrams/Class.png">
+</p>
+
+#### ER-diagram
+<p align="center">
+  <img width="400" src="./Diagrams/ERD.png">
+</p>
+
 #### C4 Diagram (Context)
 <p align="center">
 <img width="400" src="./Diagrams/C4_Context.png">
@@ -66,18 +76,6 @@ Make sure to update the routes, validation, and error-handling logic to align wi
 #### C4 Diagram (Component)
 <p align="center">
   <img width="400" src="./Diagrams/C4_Component.png">
-</p>
-
-
-#### ER-diagram
-<p align="center">
-  <img width="400" src="./Diagrams/ERD.png">
-</p>
-
-
-#### Class diagram
-<p align="center">
-  <img width="400" src="./Diagrams/Class.png">
 </p>
 
 #### Activity diagram
