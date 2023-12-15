@@ -56,5 +56,31 @@ The project template provides a starting point for implementing CRUD operations 
 
 Make sure to update the routes, validation, and error-handling logic to align with your application requirements and best practices.
 
+## UML
+
+#### C4 Diagram (Context)
+<p align="center">
+<img width="400" src="./Diagrams/C4_Context.png">
+</p>
+
+#### C4 Diagram (Component)
+<p align="center">
+  <img width="400" src="./Diagrams/C4_Component.png">
+</p>
 
 
+#### ER-diagram
+<p align="center">
+  <img width="400" src="./Diagrams/ERD.png">
+</p>
+
+
+#### Class diagram
+<p align="center">
+  <img width="400" src="./Diagrams/Class.png">
+</p>
+
+#### Activity diagram
+<p align="center">
+  <img width="400" src="./Diagrams/Activity.png">
+</p>
